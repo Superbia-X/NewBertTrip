@@ -1,0 +1,11 @@
+[MASK]
+[CLS]
+[PAD]
+[SEP]
+[UNK]
+Beach
+Cultural
+Shopping
+Structure
+Amusement
+Sport

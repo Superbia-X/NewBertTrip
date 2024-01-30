@@ -1,0 +1,12 @@
+[MASK]
+[CLS]
+[PAD]
+[SEP]
+[UNK]
+Transport
+Shopping
+Structure
+Museum
+Park
+Religion
+Education
